@@ -121,6 +121,7 @@ a {
     padding: 1rem 1ch;
     border-radius: 3px;
     box-shadow: 2px 2px;
+    min-width: 100px;
   }
 
 
